@@ -1,8 +1,5 @@
 % Skeleton code for simulation chain
 
-% History:
-%   2000-06-28  written /Stefan Parkvall
-%   2001-10-22  modified /George Jongren
 
 clear
 t_samparray=[];
