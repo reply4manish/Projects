@@ -1,4 +1,4 @@
-# implementation of Spaceship - program template for RiceRocks
+# implementation of Spaceship 
 import simplegui
 import math
 import random
@@ -40,7 +40,7 @@ class ImageInfo:
         return self.animated
 
     
-# art assets created by Kim Lathrop, may be freely re-used in non-commercial projects, please credit Kim
+# art assets created by Kim Lathrop, may be freely re-used in non-commercial projects, credit Kim
     
 # debris images - debris1_brown.png, debris2_brown.png, debris3_brown.png, debris4_brown.png
 #                 debris1_blue.png, debris2_blue.png, debris3_blue.png, debris4_blue.png, debris_blend.png
